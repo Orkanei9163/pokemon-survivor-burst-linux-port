@@ -1,0 +1,14 @@
+{
+    "windowTitle": "Pokemon Survivor Burst",
+    "defScreenW": 512,
+    "defScreenH": 384,
+    "midiSoundFont": "soundfont.sf2",
+    "subImageFix": true,
+    "vsync": true,
+    "syncToRefreshrate": true,
+    "fixedAspectRatio": true,
+    "smoothScaling": 0,
+    "fontHeightReporting": 1,
+    "fontOutlineCrop": false,
+    "fontHinting": 0
+}
